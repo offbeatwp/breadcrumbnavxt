@@ -1,0 +1,16 @@
+{
+    "name": "offbeatwp/breadcrumbsnavxt",
+    "type": "offbeatwp-service",
+    "authors": [
+        {
+            "name": "Chris Schrijver",
+            "email": "chris@raow.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OffbeatWP\\BreadcrumbsNavxt\\": "src"
+        }
+    },
+    "require": {}
+}
