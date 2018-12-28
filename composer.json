@@ -1,5 +1,7 @@
 {
     "name": "offbeatwp/breadcrumbsnavxt",
+    "description": "Make BreadcrumbNavxt available in the view.",
+    "license": "MIT",
     "type": "offbeatwp-service",
     "authors": [
         {
